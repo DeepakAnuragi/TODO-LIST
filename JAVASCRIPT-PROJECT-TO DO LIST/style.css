@@ -1,0 +1,18 @@
+*{
+    background-color: blanchedalmond;
+    margin: 10px;
+    padding: 5px;
+}
+h1{
+    color: red;
+}
+input{
+    background-color: azure;
+    color: rgb(93, 64, 17);
+    border-radius: 20px;
+}
+button{
+    background-color: rgb(220, 255, 252);
+    color: rgb(47, 9, 29);
+    border-radius: 20px;
+}
